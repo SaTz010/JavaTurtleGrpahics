@@ -1,0 +1,84 @@
+circle 100
+capture 
+clear
+diaplay 
+display
+clear
+display
+circle 100
+capture
+clear
+display
+clear
+display
+forward 100 
+turnleft 90
+forward 100 
+savecommands
+loadcommmands
+loadcommands
+clear
+savecommands
+loadcommands
+circle 100
+capture 
+clear
+diaplay 
+display
+clear
+display
+circle 100
+capture
+clear
+display
+clear
+display
+forward 100 
+turnleft 90
+forward 100 
+savecommands
+loadcommmands
+loadcommands
+clear
+clear
+reset
+sqaure 100
+square 100
+capture
+clear
+display 
+savecommandds
+savecommands
+loadcommands
+circle 100
+capture 
+clear
+diaplay 
+display
+clear
+display
+circle 100
+capture
+clear
+display
+clear
+display
+forward 100 
+turnleft 90
+forward 100 
+savecommands
+clear
+reset
+sqaure 100
+square 100
+circle 100 
+capture 
+clear
+display 
+clear
+reset
+forward 100 
+circle 100
+backward 100
+circle 100 
+savecommands
